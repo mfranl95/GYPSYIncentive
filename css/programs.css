@@ -1822,7 +1822,7 @@ nav a:hover{
 	font-weight:200;
 	margin-top:25px;
 	margin-bottom:25px;
-	color: #5fa55a;
+	color: #fff;
 }
 .core-feat-left h2 span{
 	font-weight:600
@@ -1830,7 +1830,8 @@ nav a:hover{
 .core-feat-left p{
 	font-size:14px;
 	font-weight:300;
-	margin-bottom:15px
+	margin-bottom:15px;
+	color:#fff;
 }
 .core2-left img{
 	height:100%
