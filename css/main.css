@@ -1698,7 +1698,8 @@ nav a:active{
 .banner-content p{
 	color:#fff;
 	margin-bottom:60px;
-	font-size:16px
+	font-size:20px;
+	letter-spacing: 10px;
 }
 @media (max-width: 767px){
 	.banner-content p{
