@@ -1589,7 +1589,7 @@ nav a:active{
 .primary-btn{
 	line-height:40px;
 	padding:0 30px;
-	border-radius:20px;
+	border-radius:2px;
 	background:transparent;
 	border:1px solid #fff;
 	color:#222;
