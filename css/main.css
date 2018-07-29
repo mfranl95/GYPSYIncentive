@@ -1679,7 +1679,7 @@ nav a:active{
 .banner-content h1{
 	color:#fff;
 	font-size:84px;
-	letter-spacing:4px;
+	letter-spacing:5px;
 	font-weight:200;
 	line-height:1.15em;
 	margin-bottom:20px;
@@ -1698,8 +1698,8 @@ nav a:active{
 .banner-content p{
 	color:#fff;
 	margin-bottom:60px;
-	font-size:20px;
-	letter-spacing: 6px;
+	font-size:18px;
+	letter-spacing: 7px;
 }
 @media (max-width: 767px){
 	.banner-content p{
