@@ -1594,7 +1594,7 @@ nav a:hover{
 .primary-btn{
 	line-height:40px;
 	padding:0 30px;
-	border-radius:20px;
+	border-radius:5px;
 	background:transparent;
 	border:1px solid #fff;
 	color:#222;
@@ -1622,7 +1622,7 @@ nav a:hover{
 	height:100%;
 	top:0;
 	left:0;
-	border-radius:20px;
+	border-radius:5px;
 	opacity:0;
 	-webkit-transition:all 0.3s ease 0s;
 	-moz-transition:all 0.3s ease 0s;
