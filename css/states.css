@@ -1677,7 +1677,7 @@ nav a:hover{
 .banner-content h1{
 	color:#fff;
 	font-size:84px;
-	letter-spacing:3px;
+	letter-spacing:6px;
 	font-weight:200;
 	line-height:1.15em;
 	margin-bottom:20px;
@@ -1696,8 +1696,8 @@ nav a:hover{
 .banner-content p{
 	color:#fff;
 	margin-bottom:60px;
-	font-size:16px;
-	letter-spacing:4px;
+	font-size:18px;
+	letter-spacing:2px;
 }
 @media (max-width: 767px){
 	.banner-content p{
