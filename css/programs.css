@@ -1758,9 +1758,11 @@ nav a:hover{
 }
 .core-feature-area{
 	background:#fa5457;
+	padding-top: 15px;
 }
 .core-feature-child-area{
 	background:#fa8925;
+	padding-top: 15px;
 }
 @media (max-width: 768px){
 	.core-feature-area .core-feature-child-area .core-feat-left{
