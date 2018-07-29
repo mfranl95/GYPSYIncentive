@@ -2281,3 +2281,60 @@ footer .footer-nav li a:hover{
 img svg:hover{
 	fill: #f6d51f;
 }
+
+.btn{
+	line-height:40px;
+	padding:0 30px;
+	margin-top:5px;
+	border-radius:5px;
+	background:#fff;
+	border:1px solid #fff;
+	color:#5fa55a;
+	display:inline-block;
+	font-weight:300;
+	position:relative;
+	-webkit-transition:all 0.3s ease 0s;
+	-moz-transition:all 0.3s ease 0s;
+	-o-transition:all 0.3s ease 0s;
+	transition:all 0.3s ease 0s;
+	cursor:pointer;
+	letter-spacing: 3px;
+}
+.btn:focus{
+	outline:none
+}
+.btn span{
+	color:#fff;
+	position:relative;
+	z-index:2;
+	padding-left: 5px;
+}
+.btn:after{
+	position:absolute;
+	content:"";
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	border-radius:5px;
+	opacity:0;
+	-webkit-transition:all 0.3s ease 0s;
+	-moz-transition:all 0.3s ease 0s;
+	-o-transition:all 0.3s ease 0s;
+	transition:all 0.3s ease 0s;
+	z-index:1
+}
+.btn:hover{
+	color:#000;
+	border:1px solid transparent
+}
+.btn:hover:after{
+	opacity:1
+}
+.btn.hover{
+	color:#fff;
+	border:1px solid transparent
+}
+.btn.hover:after{
+	opacity:1
+}
