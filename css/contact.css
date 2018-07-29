@@ -1703,7 +1703,8 @@ nav a:hover{
 .banner-content p{
 	color:#fff;
 	margin-bottom:60px;
-	font-size:16px
+	font-size:16px;
+	letter-spacing:5px;
 }
 @media (max-width: 767px){
 	.banner-content p{
