@@ -1696,7 +1696,7 @@ nav a:hover{
 	color:#fff;
 	margin-bottom:60px;
 	font-size:20px;
-	letter-spacing: 8px;
+	letter-spacing: 4px;
 }
 @media (max-width: 767px){
 	.banner-content p{
