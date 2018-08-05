@@ -1758,11 +1758,11 @@ nav a:hover{
 }
 .core-feature-area{
 	background:#fa5457;
-	margin-top: 15px;
+	margin-top: 2px;
 }
 .core-feature-child-area{
 	background:#fa8925;
-	margin-top: 15px;
+	margin-top: 2px;
 }
 @media (max-width: 768px){
 	.core-feature-area .core-feature-child-area .core-feat-left{
