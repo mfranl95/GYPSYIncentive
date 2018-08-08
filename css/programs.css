@@ -1586,6 +1586,7 @@ nav a:hover{
 .primary-btn{
 	line-height:40px;
 	padding:0 30px;
+	margin-top: 30px;
 	border-radius:5px;
 	background:#fa8925;
 	border:1px solid #fff;
