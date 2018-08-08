@@ -1643,9 +1643,7 @@ nav a:hover{
 	background-image:-ms-linear-gradient(190eg, #f6d51f 0%, #f8de50 100%)
 }
 .p2-gradient-bg,.primary-btn:after{
-	background-image:-moz-linear-gradient(190deg, #f6d0c5 0%, #fbd2f6 100%);
-	background-image:-webkit-linear-gradient(190deg, #f6d0c5 0%, #fbd2f6 100%);
-	background-image:-ms-linear-gradient(190deg, #f6d0c5 0%, #fbd2f6 100%)
+	background:#fa8925;
 }
 .p1-gradient-color{
 	background:-moz-linear-gradient(0deg, #91d1ff, #a387ff);
