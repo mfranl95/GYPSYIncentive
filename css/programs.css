@@ -1586,8 +1586,8 @@ nav a:hover{
 .primary-btn{
 	line-height:40px;
 	padding:0 30px;
-	border-radius:20px;
-	background:transparent;
+	border-radius:5px;
+	background:#fa8925;
 	border:1px solid #fff;
 	color:#222;
 	display:inline-block;
@@ -1642,9 +1642,7 @@ nav a:hover{
 	background-image:-ms-linear-gradient(190eg, #fa8925 0%, #fba457 100%)
 }
 .p2-gradient-bg,.primary-btn:after{
-	background-color: #f6d51f;
-	background-color: #f6d51f;
-	background-color: #f6d51f
+	background-color: #fa8925;
 }
 .p1-gradient-color{
 	background:-moz-linear-gradient(0deg, #91d1ff, #a387ff);
