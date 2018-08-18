@@ -1755,6 +1755,62 @@ nav a:hover{
 		margin-top:40px
 }
 }
+
+.state-btn{
+	margin-top: 30px;
+	line-height:40px;
+	padding:0 30px;
+	border-radius:5px;
+	background:#fa8925;
+	border:1px solid #fff;
+	color:#222;
+	display:inline-block;
+	font-weight:500;
+	position:relative;
+	-webkit-transition:all 0.3s ease 0s;
+	-moz-transition:all 0.3s ease 0s;
+	-o-transition:all 0.3s ease 0s;
+	transition:all 0.3s ease 0s;
+	cursor:pointer
+}
+.state-btn:focus{
+	outline:none
+}
+.state-btn span{
+	color:#fff;
+	position:relative;
+	
+}
+.state-btn:after{
+	position:absolute;
+	content:"";
+	width:100%;
+	height:100%;
+	top:0;
+	left:0;
+	border-radius:5px;
+	opacity:0;
+	-webkit-transition:all 0.3s ease 0s;
+	-moz-transition:all 0.3s ease 0s;
+	-o-transition:all 0.3s ease 0s;
+	transition:all 0.3s ease 0s;
+	z-index:1
+}
+.state-btn:hover{
+	color:#fff;
+	border:1px solid transparent
+}
+.state-btn:hover:after{
+	opacity:1
+}
+.state-btn.hover{
+	color:#fff;
+	border:1px solid transparent
+}
+.state-btn.hover:after{
+	opacity:1
+}
+
 .core-feature-area{
 	background:#f9f9ff;
 	margin-top:2px;
