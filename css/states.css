@@ -1757,11 +1757,11 @@ nav a:hover{
 }
 .core-feature-area{
 	background:#f9f9ff;
-	margin-top:15px;
+	margin-top:2px;
 }
 .core-feature-bottom-area{
 	background:#fff;
-	margin-top:15px;
+	margin-top:2px;
 }
 @media (max-width: 768px){
 	.core-feature-area .core-feature-bottom-area .core-feat-left{
