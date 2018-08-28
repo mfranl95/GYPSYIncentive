@@ -1606,6 +1606,7 @@ nav a:hover{
 .primary-btn span{
 	color:#fff;
 	position:relative;
+	z-index:2
 	
 }
 .primary-btn:after{
@@ -1621,7 +1622,7 @@ nav a:hover{
 	-moz-transition:all 0.3s ease 0s;
 	-o-transition:all 0.3s ease 0s;
 	transition:all 0.3s ease 0s;
-	z-index:1
+	
 }
 .primary-btn:hover{
 	color:#fff;
@@ -2357,7 +2358,7 @@ text-decoration:none;
 	-moz-transition:all 0.3s ease 0s;
 	-o-transition:all 0.3s ease 0s;
 	transition:all 0.3s ease 0s;
-	z-index:1
+	
 }
 .btn:hover{
 	color:#fff;
