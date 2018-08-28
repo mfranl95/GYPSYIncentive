@@ -1606,7 +1606,7 @@ nav a:hover{
 .primary-btn span{
 	color:#fff;
 	position:relative;
-	z-index:2
+	
 }
 .primary-btn:after{
 	position:absolute;
